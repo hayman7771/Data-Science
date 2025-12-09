@@ -1,6 +1,14 @@
 # Data Science
 This repository contains both foundational and advanced data science work organized into focused domains. Though my primary area of expertise is finance, the projects, ideas, and insights in this repository pertain to an array of things ranging from financial modeling, financial analysis, scalable data workflows, and the intricacies of the math and visualizations used in data science. 
 
+## Purpose:
+The repository demonstrates the following:
+- Technical breadth across the data science lifestyle
+- Ability to build analytical infrastucture supporting invest decision-making
+- Modern tool adoption for robust operational and financial analytics
+
+These capabilities strengthen valuation workflows, due diligence analysis, and portfolio management processes.
+
 ## Contents:
 
 ### Mathematics:
