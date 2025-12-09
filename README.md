@@ -41,6 +41,50 @@ Production-grade workflows including:
 
 *These engineering skills enable scalable, repeatable and automated analytic processeses, albeit largely in a financial context.* 
 
+### Machine Learning:
+Machine learning models and analytical workflows used to support forecasting, valuation, operational analysis, and performance modeling.
+
+#### Supervised Learning:
+Models used for prediction, risk assessment & performance diagnostics:
+- Linear, Ridge & Lasso Regression (forecasting Revenue, EBITDA & Margins)
+- Random Forest & Gradient Boosting--XGBoost/LightGBM (feature importance for operational KPI's, cost drivers, churn, & performance variance)
+- Classification Models (identifying operational risks or categorical outcomes)
+- Time-series Models (ARIMA, Prophet, LSTM-based approaches for financial trend prediction)
+
+#### Unsupervised Learning
+
+Models for pattern recognition, segmentation, and anomaly detection:
+- Clustering--k-means, DBSCAN, hierarchical (grouping similar operating units or customer segments)
+- Anomaly Detection--Isolation Forest, statistical methods (detecting irregular performance shifts or outlier KPI's)
+- Dimensionality Reduction--PCA, t-SNE (identifying key operational drivers in high-dimensional data)
+- Forecasting & Scenario Modeling
+
+#### Machine learning–supported forecasting for:
+- Revenue and demand projections
+- EBITDA and margin pathways
+- Working capital requirements
+- Multi-scenario planning based on operational and financial inputs
+
+#### Includes:
+- Monte Carlo simulation integration
+- Feature-driven scenario sensitivity
+- Hybrid statistical-ML pipelines
+- Model Evaluation & Explainability
+
+Emphasis on interpretability—critical in investment settings:
+- SHAP value analysis
+- Feature importance rankings
+- Residual diagnostics
+- Validation through cross-validation and out-of-sample testing
+- Deployment & Automation
+
+#### End-to-end pipelines demonstrating production readiness:
+- API-based inference
+- Automatic retraining workflows
+- Dashboard integration (Grafana, Streamlit)
+- Airflow DAG scheduling
+- SQL-based feature stores
+
 ### Data Visualization:
 Tools & dashboards developed using:
 - Tableau
