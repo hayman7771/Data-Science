@@ -3,7 +3,7 @@ This repository contains both foundational and advanced data science work organi
 
 ## Contents:
 
-### Mathematics
+### Mathematics:
 Analytical Foundations:
 - Linear Algebra
 - Survival Analysis
@@ -14,7 +14,7 @@ Analytical Foundations:
 
 These components underpin forecasting, valuation modeling, and risk analysis workflows.
 
-### Data Structures & Algorithms
+### Data Structures & Algorithms:
 Core computational foundations relevant to:
 - Basics in Python, R & SQL
 - Optimization Routines
@@ -33,7 +33,7 @@ Production-grade workflows including:
 
 These engineering skills enable scalable, repeatable and automated analytic processeses, albeit largely in a financial context. 
 
-### Data Visualization
+### Data Visualization:
 Tools & dashboards developed using:
 - Tableau
 - Grafana
