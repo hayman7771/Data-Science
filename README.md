@@ -5,8 +5,8 @@ This repository contains both foundational and advanced data science work organi
 
 ### Mathematics
 Analytical Foundations:
--- Linear Algebra
--- Survival Analysis
+- Linear Algebra
+- Survival Analysis
 -- Discrete Math
 -- Probability & Statistics
 -- Calculus & Optimization
