@@ -30,6 +30,7 @@ Production-grade workflows including:
 - API Ingestion Frameworks
 - Airflow DAGS
 - Structured Data Pipelines for financial modeling, KPI tracking & reporting
+
 These engineering skills enable scalable, repeatable and automated analytic processeses, albeit largely in a financial context. 
 
 ### Data Visualization
