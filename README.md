@@ -7,7 +7,7 @@ The repository demonstrates the following:
 - Ability to build analytical infrastucture supporting invest decision-making
 - Modern tool adoption for robust operational and financial analytics
 
-These capabilities strengthen valuation workflows, due diligence analysis, and portfolio management processes.
+*These capabilities strengthen valuation workflows, due diligence analysis, and portfolio management processes.*
 
 ## Contents:
 
@@ -20,7 +20,7 @@ Analytical Foundations:
 - Calculus & Optimization
 - Time Series Mathematics
 
-These components underpin forecasting, valuation modeling, and risk analysis workflows.
+*These components underpin forecasting, valuation modeling, and risk analysis workflows.*
 
 ### Data Structures & Algorithms:
 Core computational foundations relevant to:
@@ -39,7 +39,7 @@ Production-grade workflows including:
 - Airflow DAGS
 - Structured Data Pipelines for financial modeling, KPI tracking & reporting
 
-These engineering skills enable scalable, repeatable and automated analytic processeses, albeit largely in a financial context. 
+*These engineering skills enable scalable, repeatable and automated analytic processeses, albeit largely in a financial context.* 
 
 ### Data Visualization:
 Tools & dashboards developed using:
