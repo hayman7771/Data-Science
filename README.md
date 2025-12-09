@@ -11,6 +11,7 @@ Analytical Foundations:
 - Probability & Statistics
 - Calculus & Optimization
 - Time Series Mathematics
+
 These components underpin forecasting, valuation modeling, and risk analysis workflows.
 
 ### Data Structures & Algorithms
