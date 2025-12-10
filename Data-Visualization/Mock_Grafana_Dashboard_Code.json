@@ -1,0 +1,24 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Example Analytics Dashboard",
+    "timezone": "browser",
+    "panels": [
+      {
+        "type": "timeseries",
+        "title": "Request Rate",
+        "targets": [
+          {
+            "expr": "app_requests_total",
+            "legendFormat": "Requests",
+            "refId": "A"
+          }
+        ],
+        "gridPos": { "h": 8, "w": 24, "x": 0, "y": 0 }
+      }
+    ],
+    "schemaVersion": 37,
+    "version": 1
+  },
+  "overwrite": false
+}
